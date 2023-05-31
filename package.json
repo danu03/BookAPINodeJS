@@ -1,0 +1,17 @@
+{
+  "name": "submission",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2",
+    "eslint": "^8.41.0",
+    "nanoid": "^3.0.0"
+  }
+}
